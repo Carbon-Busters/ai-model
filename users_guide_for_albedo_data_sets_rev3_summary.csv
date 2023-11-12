@@ -1,0 +1,46 @@
+﻿StationID,Location,Data Source,Data Years,Ground Surface,Overall Albedo,Lat,Long
+BondvilleIL,"Bondville, IL, USA",SURFRAD,24,Native grasses,0.247,40.0516N,88.3733W
+BoulderCO,"Boulder, CO, USA",SURFRAD,23,"Sandy with exposed rocks, sparse grass, desert shrubs and small cactus",0.199,40.1256N,105.2378W
+DesertRockNV,"Desert Rock, NV, USA",SURFRAD,20,Fine rock and scattered creosote bush ,0.211,36.6232N,116.0196W
+FortPeckMT,"Fort Peck, MT, USA",SURFRAD,23,Native grasses,0.247,48.308N,105.1018W
+GoodwinCreekMS,"Goodwin Creek, MS, USA",SURFRAD,24,Pasture grass and sparse deciduous trees,0.2,34.2547N,89.8729W
+PennStateUnivPA,"Penn State Univ, PA, USA",SURFRAD,20,3/4 grass and 1/4 crops,0.252,40.7203N,77.931W
+SiouxFallsSD,"Sioux Falls, SD, USA",SURFRAD,15,Native grasses,0.238,43.7343N,96.6233W
+ChangshuJiangsu,"Changshu, Jiangsu, China","Canadian Solar, Inc",1.3,Concrete,0.236,31.53N,120.64E
+ChangshuJiangsu,"Changshu, Jiangsu, China","Canadian Solar, Inc",1.3,White-painted concrete,0.533,31.53N,120.64E
+WuhaiInnerMongolia,"Wuhai, Inner Mongolia, China","Canadian Solar, Inc",1.1,"Gravel, light to medium gray",0.282,39.76N,106.84E
+DavisCA,"Davis, CA, USA",SunPower Corp.,0.8,"Gravel, light to medium gray",0.145,38.31N ,121.41W 
+DavisCA,"Davis, CA, USA",SunPower Corp.,0.8,White tarp,0.568,38.31N ,121.41W 
+LethbridgeAlberta,"Lethbridge, Alberta, Canada",AmeriFlux,1,Mixed grass prairie,0.25,49.7093N,112.9402W
+MedfordOK,"Medford, OK, USA",AmeriFlux,3,Hay pasture,0.211,36.8193N,97.8198W
+WoodwardOK_1,"Woodward, OK, USA",AmeriFlux,4,Switchgrass,0.186,36.4267N,99.4200W
+WoodwardOK_2,"Woodward, OK, USA",AmeriFlux,4,Switchgrass,0.204,36.6358N,99.9575W
+AudubonRanchAZ,"Audubon Research Ranch, AZ, USA",AmeriFlux,10,Native grasses,0.217,31.5907N,110.5104W
+BouldinCA,"Bouldin Island, CA, USA",AmeriFlux,3,Alfalfa,0.221,38.0992N,121.4993W
+BrookingsSD,"Brookings, SD, USA",AmeriFlux,7,Pasture grass,0.262,44.3453N,96.8362W
+CanaanValleyWV,"Canaan Valley, WV, USA",AmeriFlux,6,Grassland,0.294,39.0633N,79.4208W
+CorralPocketUT,"Corral Pocket, UT, USA",AmeriFlux,7,Semi-arid grassland with 38-80% bare ground from livestock grazing,0.238,38.0900N,109.3900W
+CottonwoodSD,"Cottonwood, SD, USA",AmeriFlux,4,Grassland,0.181,43.9500N,101.8466W
+DiabloCA,"Diablo, CA, USA",AmeriFlux,3,Grassland,0.206,37.6773N,121.5296W
+DukeFieldNC,"Duke Field, NC, USA",AmeriFlux,5,Tall fescue grass mowed annually,0.203,35.9712N,79.0934W
+FlagstaffAZ,"Flagstaff, AZ, USA",AmeriFlux,6,Post forest fire grasslands,0.219,35.4454N,111.7718W
+FermilabIL,"Fermilab – Batavia, IL, USA",AmeriFlux,14,Prairie grass,0.221,41.8406N,88.2410W
+FieldStationKS,"Kansas Field Station, KS, USA",AmeriFlux,8,Grassland,0.193,39.0561N,95.1907W
+KonzaPrairieKS,"Konza Prairie, KS, USA",AmeriFlux,6,Grassland,0.19,39.0824N,96.5603W
+TurfgrassFieldMN,"Turfgrass Field, MN, USA",AmeriFlux,4,Turfgrass lawn,0.322,44.9950N,93.1863W
+ReynoldsCreekID_1,"Reynolds Creek, ID, USA",AmeriFlux,3,Low sagebrush,0.179,43.1439N,116.7356W
+ReynoldsCreekID_2,"Reynolds Creek, ID, USA",AmeriFlux,3,Mountain big sagebrush,0.231,43.0645N,116.7486W
+RosemountMN,"Rosemount, MN, USA",AmeriFlux,5,Grassland,0.247,44.6781N,93.0723W
+SonoranDesertCA,"Sonoran Desert, CA, USA",AmeriFlux,7,Desert,0.245,33.6518N,116.3721W
+SouthGrasslandCA,"Southern Californian Grassland, CA, USA",AmeriFlux,9,Grassland,0.165,33.7365N,117.6946W
+McKenzieFlatsNM,"McKenzie Flats, NM, USA",AmeriFlux,12,Desert Grassland,0.219,34.3623N,106.7020W
+ShidlerOK,"Shidler, OK, USA",AmeriFlux,4,Tall grass prairie,0.217,36.9333N,96.6833W
+SantaRitaAZ,"Santa Rita, AZ, USA",AmeriFlux,11,Semidesert grassland,0.204,31.7894N,110.8277W
+TwitchellCA,"Twitchell Island, CA, USA",AmeriFlux,5,Alfalfa,0.223,38.1159N,121.6467W
+WalnutGulchAZ,"Walnut Gulch, AZ, USA",AmeriFlux,15,Grassland,0.182,31.7365N,109.9419W
+SmileyburgKS,"Smileyburg, KS, USA",AmeriFlux,3,Tall grass prairie,0.21,37.5208N,96.8550W
+RoskildeDenmark,"Roskilde, Denmark",Technical University of Denmark,1,Grass,0.222,55.696N,12.105E
+FayetteOH,"Fayette, OH, USA",7X Energy,1,Grass,0.23,41.6636N,84.2782W
+PearsallTX,"Pearsall, TX, USA",7X Energy,1,Native grass,0.194,28.9149N,99.1605W
+SabinalTX,"Sabinal, TX, USA",7X Energy,1,Native grass,0.21,29.2588N,99.5429W
+CoyanosaTX,"Coyanosa, TX, USA",7X Energy,1.5,Native grass and shrubs,0.256,31.1860N,103.1530W
